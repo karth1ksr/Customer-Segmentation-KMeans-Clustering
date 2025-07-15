@@ -38,12 +38,15 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 ## Folder Structure
-
+<pre><code> 
+```bash
 Customer-Segmentation-KMeans-Clustering/
 ├── data/ # Dataset files
 ├── notebooks/ # Jupyter notebooks for EDA and model training
 ├── preprocessed_segmentation.pkl/ # Preprocessed pkl file for training the model
 └── README.md # Project documentation
+```
+</code></pre>
 
 ## How to Run
 *  Open preprocessing_segmentation.ipynb from the notebooks/ in Jupyter Notebook or VS Code
